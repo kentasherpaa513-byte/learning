@@ -24,15 +24,17 @@
 # else:
 #     print(n,"is not a prime number")
         
-import random
+# import random
 
+# for i in range(3):
+#     x = random.randint(1, 10)
+#     guess = int(input("Guess a number between 1 and 10: "))
+#     if guess == x:
+#         print("Congratulations! You guessed the correct number.")
+#     else:
+#         print("Sorry, that's not the correct number.The correct number was", x)
+def printnumber(n):
+    for i in range(1,n+1):
+        print(i)
 
-
-for i in range(3):
-    x = random.randint(1, 10)
-    guess = int(input("Guess a number between 1 and 10: "))
-    if guess == x:
-        print("Congratulations! You guessed the correct number.")
-    else:
-        print("Sorry, that's not the correct number.The correct number was", x)
 
