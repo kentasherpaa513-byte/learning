@@ -6,11 +6,11 @@ Author - Kenta Sherpa (Garja)
 
 Hello help me stay consistent GOD
 
-OM suryaya namaha
-
-
-
-
-
-
+FOR ML
+-PYTHON
+-NUMPY
+-PANDAS
+-MATPLOTLIB
+-SEABORN
+-STATISTICS
 
